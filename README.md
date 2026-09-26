@@ -6,6 +6,7 @@
 * 📦 Trabajé como **Desarrollador Web** y **Gerente en PedidosYa Market**, experiencia donde mi rol exigía optimizar operaciones y procesos. Allí descubrí el impacto real de la información, lo que despertó mi interés definitivo por el **análisis y la ciencia de datos**.
 * 📊 Actualmente me enfoco al 100% en la extracción de *insights* para negocios, combinando mi lógica de programación con herramientas de análisis de datos.
 * 🚀 Busco activamente mi próxima oportunidad profesional como **Data Analyst**.
+* [Mis Proyectos de Analisis de datos](https://github.com/NeoG14/Portfolio/blob/main/Readme.md)
 
 ## 🛠️ Stack Tecnológico y Herramientas
 
@@ -26,7 +27,6 @@
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,jupyter&titles=true)
 
 ## 📈 Qué estoy aprendiendo / desarrollando actualmente
-
 * Profundizando en matemáticas aplicadas (cálculo, algebra lineal y probabilidad y estadística) para asentar las bases del Data Science.
 * Construyendo proyectos de limpieza de datos, análisis exploratorio (EDA) y dashboards interactivos con Excel y Power Bi.
 
