@@ -27,8 +27,10 @@
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,jupyter&titles=true)
 
 ## 📈 Qué estoy aprendiendo / desarrollando actualmente
-* Profundizando en matemáticas aplicadas (cálculo, algebra lineal y probabilidad y estadística) para asentar las bases del Data Science.
 * Construyendo proyectos de limpieza de datos, análisis exploratorio (EDA) y dashboards interactivos con Excel y Power Bi.
+* Estudiando como resolver y entender problemas de negocio y metricas KPI
+* Profundizando en matemáticas aplicadas (cálculo, algebra lineal y probabilidad y estadística) para asentar las bases del Data Science.
+
 
 ## 📫 Cómo contactarme
 
