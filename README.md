@@ -6,7 +6,7 @@
 * 📦 Trabajé como **Desarrollador Web** y **Gerente en PedidosYa Market**, experiencia donde mi rol exigía optimizar operaciones y procesos. Allí descubrí el impacto real de la información, lo que despertó mi interés definitivo por el **análisis y la ciencia de datos**.
 * 📊 Actualmente me enfoco al 100% en la extracción de *insights* para negocios, combinando mi lógica de programación con herramientas de análisis de datos.
 * 🚀 Busco activamente mi próxima oportunidad profesional como **Data Analyst**.
-* [Mis Proyectos de Analisis de datos](https://github.com/NeoG14/Portfolio/blob/main/Readme.md)
+### [Mis Proyectos de Analisis de datos](https://github.com/NeoG14/Portfolio/blob/main/Readme.md)
 
 ## 🛠️ Stack Tecnológico y Herramientas
 
@@ -34,7 +34,7 @@
 
 ## 📫 Cómo contactarme
 
-* **LinkedIn:** 
-* **Email:** 
-* **Portfolio / CV:** 
+* [**LinkedIn**](https://www.linkedin.com/in/nicolasalvarez1414)
+* **Email:** nicolaplatajob@gmail.com
+* [**CV**](https://github.com/NeoG14/Portfolio/blob/main/Nicol%C3%A1s_Alvarez.pdf)
 
